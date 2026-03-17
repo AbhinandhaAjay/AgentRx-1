@@ -1,0 +1,10 @@
+# Environments
+.env
+
+# ChromaDB local storage (if you configure it to save to disk later)
+chroma_db/
+chroma/
+
+# Python caching
+__pycache__/
+*.pyc
