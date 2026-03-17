@@ -1,5 +1,7 @@
-[
-  {
+{
+  "molecule": "Thalidomide",
+  "patents": [
+    {
     "patent_id": "CN111658647A",
     "title": "Application of thalidomide and thalidomide derivative",
     "assignee": "Xuanwu Hospital Capital Medical Univ",
@@ -21,4 +23,5 @@
     "patent_type": "formulation",
     "abstract": "The invention relates to novel polymorphic forms of thalidomide and pharmaceutical compositions thereof."
   }
-]
+  ]
+}
