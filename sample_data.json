@@ -1,0 +1,33 @@
+{
+  "molecule": "Thalidomide",
+  "therapeutic_context": "Multiple Myeloma",
+  "patents": [
+    {
+      "patent_id": "US1234567A",
+      "title": "Method of treating multiple myeloma using thalidomide",
+      "assignee": "Celgene Corporation",
+      "filing_date": "1997-05-12",
+      "grant_date": "2000-01-01",
+      "expiry_date": "2017-05-12",
+      "abstract": "A method of treating multiple myeloma by administering a therapeutically effective amount of thalidomide."
+    },
+    {
+      "patent_id": "US9876543B",
+      "title": "Novel crystalline forms of thalidomide",
+      "assignee": "Celgene Corporation",
+      "filing_date": "2005-08-20",
+      "grant_date": "2008-03-15",
+      "expiry_date": "2025-08-20",
+      "abstract": "The invention relates to novel polymorphic forms of thalidomide and pharmaceutical compositions thereof."
+    },
+    {
+      "patent_id": "EP1122334B1",
+      "title": "Thalidomide capsules for oral administration",
+      "assignee": "Pharmion Corporation",
+      "filing_date": "1999-11-05",
+      "grant_date": "2003-06-10",
+      "expiry_date": "2019-11-05",
+      "abstract": "A hard gelatin capsule formulation containing thalidomide."
+    }
+  ]
+}
