@@ -1,6 +1,5 @@
 import os
 import subprocess
-
 def test_agent():
     print("running patent_agent.py with sample_data.json...")
     

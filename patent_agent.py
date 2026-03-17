@@ -6,7 +6,6 @@ import os
 from dotenv import load_dotenv
 import chromadb
 from groq import Groq
-
 load_dotenv()
 
 class PatentAnalysisAgent:
